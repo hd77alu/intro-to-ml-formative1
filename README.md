@@ -16,7 +16,7 @@ This Project implemented and compared two perspectives on classification:
 
 - `Assignment1_NN.ipynb` — main Jupyter Notebook containing data preprocessing, classical models (Logistic Regression, Random Forest), a scratch NumPy neural network, experiments, and evaluation figures.
 - `pop_failures.dat` — raw dataset files used by the notebook (downloaded from UCI). 
-- `README.md` — this file with dataset and setup information.
+- `README.md` — this file contains the dataset and setup information.
 
 ## Setup
 
